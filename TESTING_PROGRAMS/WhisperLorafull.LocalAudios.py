@@ -9,14 +9,14 @@ from peft import PeftModel, PeftConfig
 #  SETTINGS
 # ==========================================
 # File to test (Put your audio file here)
-AUDIO_FILENAME = "ANGELA\\2.wav" 
+AUDIO_FILENAME = "../AngelaAudios\\2.wav" 
 
 # AUTOMATIC SETUP
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 AUDIO_PATH = os.path.join(SCRIPT_DIR, AUDIO_FILENAME)
 
 # *** IMPORTANT: Pointing to the NEW 'All-In' Model ***
-MODEL_PATH = os.path.join(SCRIPT_DIR, "whisper-lora-full")
+MODEL_PATH = os.path.join(SCRIPT_DIR, "../whisper-lora-full")
 # ==========================================
 
 def transcribe_with_full_model(audio_path, model_path):
