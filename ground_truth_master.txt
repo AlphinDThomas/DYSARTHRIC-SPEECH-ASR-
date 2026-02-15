@@ -1,0 +1,56 @@
+M05_2_headMic_0148.wav | fill
+M05_2_headMic_0388.wav | ticker
+M05_1_arrayMic_0029.wav | horn
+M05_1_arrayMic_0090.wav | trait
+M05_1_headMic_0127.wav | knee
+M02_2_arrayMic_0132.wav | brawn
+M02_2_arrayMic_0106.wav | pretty
+M02_2_arrayMic_0092.wav | coupe
+M02_2_arrayMic_0094.wav | pat
+M02_1_arrayMic_0133.wav | here
+M02_1_headMic_0207.wav | suit
+M04_2_arrayMic_0232.wav | suit
+M04_2_arrayMic_0205.wav | rock
+M04_2_arrayMic_0152.wav | steer
+M04_2_headMic_0233.wav | bat
+M04_2_headMic_0229.wav | play
+M04_2_headMic_0289.wav | pitting
+M04_1_arrayMic_0049.wav | right
+M01_3_arrayMic_0110.wav | of
+M01_3_arrayMic_0142.wav | yes
+M01_3_headMic_0011.wav | range
+M01_3_headMic_0245.wav | thought
+M01_3_headMic_0031.wav | fate
+M01_3_headMic_0197.wav | eight
+M01_3_headMic_0216.wav | written
+M01_1_arrayMic_0011.wav | Except in the winter when the ooze or snow or ice prevents
+M01_1_headMic_0075.wav | rave
+M01_1_headMic_0068.wav | right
+F01_1_arrayMic_0009.wav | pat
+F01_1_arrayMic_0070.wav | horn
+F01_1_headMic_0092.wav | read 
+M03_2_arrayMic_0024.wav | bug
+M03_2_arrayMic_0359.wav | darn
+M03_2_arrayMic_0395.wav | dress
+M03_2_arrayMic_0261.wav | park
+M03_2_arrayMic_0232.wav | sigh
+M03_2_arrayMic_0126.wav | pad
+M03_2_arrayMic_0153.wav | rocks
+M03_2_headMic_0309.wav | sell
+M03_2_headMic_0139.wav | no
+M03_2_headMic_0358.wav | witch
+F04_2_arrayMic_0048.wav | pad
+F04_2_arrayMic_0205.wav | park
+F04_2_headMic_0109.wav | Carl lives in a lively home
+F04_2_headMic_0118.wav | It was a good win for us
+F04_1_arrayMic_0104.wav | pat
+F04_1_arrayMic_0162.wav | coupe
+F04_1_arrayMic_0161.wav | tear 
+F04_1_arrayMic_0187.wav | whoop
+F03_2_arrayMic_0129.wav | dark
+F03_2_headMic_0159.wav | Swing your arm as high as you can
+F03_3_arrayMic_0067.wav | Each one volunteered to jump first
+F03_3_arrayMic_0089.wav | dead
+F03_3_headMic_0137.wav | Critical equipment needs proper maintenance
+F03_3_headMic_0192.wav | She wore warm fleecy woolen overalls
+F03_1_headMic_0058.wav | horn

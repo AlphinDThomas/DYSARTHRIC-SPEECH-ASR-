@@ -9,7 +9,7 @@ from peft import PeftModel, PeftConfig
 #  SETTINGS
 # ==========================================
 # File name of your audio (must be in the same folder as this script)
-AUDIO_FILENAME = "audio.wav" 
+AUDIO_FILENAME = "TEST AUDIOS\\dysarthric_a.wav" 
 
 # Automatically get the absolute path to the file in this folder
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -64,7 +64,13 @@ def transcribe_local_audio(audio_path, model_path):
     input_features = inputs.input_features.to(device)
 
     with torch.no_grad():
-        predicted_ids = model.generate(input_features)
+        # [FIX APPLIED HERE]
+        # Force the model to use English. This fixes the "Dutch" hallucination.
+        predicted_ids = model.generate(
+            input_features, 
+            language="en", 
+            task="transcribe"
+        )
 
     transcription = processor.batch_decode(predicted_ids, skip_special_tokens=True)[0]
 

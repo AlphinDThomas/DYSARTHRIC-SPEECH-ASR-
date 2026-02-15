@@ -1,0 +1,227 @@
+Model: OpenAI Whisper medium
+WER: 45.45% | CER: 78.06%
+==================================================
+File: F01_1_arrayMic_0009.wav
+REF:  pat
+PRED: 
+--------------------
+File: F01_1_arrayMic_0070.wav
+REF:  horn
+PRED: horn
+--------------------
+File: F01_1_headMic_0092.wav
+REF:  read
+PRED: weee
+--------------------
+File: F03_1_headMic_0058.wav
+REF:  horn
+PRED: porn
+--------------------
+File: F03_2_arrayMic_0129.wav
+REF:  dark
+PRED: dark
+--------------------
+File: F03_2_headMic_0159.wav
+REF:  swing your arm as high as you can
+PRED: swing your arm as high as you can
+--------------------
+File: F03_3_arrayMic_0067.wav
+REF:  each one volunteered to jump first
+PRED: each volunteer has to jump first
+--------------------
+File: F03_3_arrayMic_0089.wav
+REF:  dead
+PRED: good
+--------------------
+File: F03_3_headMic_0137.wav
+REF:  critical equipment needs proper maintenance
+PRED: critical equipment and new propertment
+--------------------
+File: F03_3_headMic_0192.wav
+REF:  she wore warm fleecy woolen overalls
+PRED: okay she wore a white fleecebronze overalls
+--------------------
+File: F04_1_arrayMic_0104.wav
+REF:  pat
+PRED: part
+--------------------
+File: F04_1_arrayMic_0161.wav
+REF:  tear
+PRED: cheers
+--------------------
+File: F04_1_arrayMic_0162.wav
+REF:  coupe
+PRED: coup
+--------------------
+File: F04_1_arrayMic_0187.wav
+REF:  whoop
+PRED: whoop whoop
+--------------------
+File: F04_2_arrayMic_0048.wav
+REF:  pad
+PRED: pad
+--------------------
+File: F04_2_arrayMic_0205.wav
+REF:  park
+PRED: park
+--------------------
+File: F04_2_headMic_0109.wav
+REF:  carl lives in a lively home
+PRED: carl lives in a lively home
+--------------------
+File: F04_2_headMic_0118.wav
+REF:  it was a good win for us
+PRED: it was a good win for us
+--------------------
+File: M01_1_arrayMic_0011.wav
+REF:  except in the winter when the ooze or snow or ice prevents
+PRED: a gap in the winter when the oog are not alright for wind
+--------------------
+File: M01_1_headMic_0068.wav
+REF:  right
+PRED: right
+--------------------
+File: M01_1_headMic_0075.wav
+REF:  rave
+PRED: rabe
+--------------------
+File: M01_3_arrayMic_0110.wav
+REF:  of
+PRED: hope
+--------------------
+File: M01_3_arrayMic_0142.wav
+REF:  yes
+PRED: yes
+--------------------
+File: M01_3_headMic_0011.wav
+REF:  range
+PRED: range
+--------------------
+File: M01_3_headMic_0031.wav
+REF:  fate
+PRED: paid
+--------------------
+File: M01_3_headMic_0197.wav
+REF:  eight
+PRED: eight
+--------------------
+File: M01_3_headMic_0216.wav
+REF:  written
+PRED: we did it
+--------------------
+File: M01_3_headMic_0245.wav
+REF:  thought
+PRED: dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+--------------------
+File: M02_1_arrayMic_0133.wav
+REF:  here
+PRED: here
+--------------------
+File: M02_1_headMic_0207.wav
+REF:  suit
+PRED: soup
+--------------------
+File: M02_2_arrayMic_0092.wav
+REF:  coupe
+PRED: cold
+--------------------
+File: M02_2_arrayMic_0094.wav
+REF:  pat
+PRED: time
+--------------------
+File: M02_2_arrayMic_0106.wav
+REF:  pretty
+PRED: 30
+--------------------
+File: M02_2_arrayMic_0132.wav
+REF:  brawn
+PRED: bye
+--------------------
+File: M03_2_arrayMic_0024.wav
+REF:  bug
+PRED: bug
+--------------------
+File: M03_2_arrayMic_0126.wav
+REF:  pad
+PRED: pad
+--------------------
+File: M03_2_arrayMic_0153.wav
+REF:  rocks
+PRED: rocks
+--------------------
+File: M03_2_arrayMic_0232.wav
+REF:  sigh
+PRED: sigh
+--------------------
+File: M03_2_arrayMic_0261.wav
+REF:  park
+PRED: park
+--------------------
+File: M03_2_arrayMic_0359.wav
+REF:  darn
+PRED: darn
+--------------------
+File: M03_2_arrayMic_0395.wav
+REF:  dress
+PRED: dress
+--------------------
+File: M03_2_headMic_0139.wav
+REF:  no
+PRED: no
+--------------------
+File: M03_2_headMic_0309.wav
+REF:  sell
+PRED: sell
+--------------------
+File: M03_2_headMic_0358.wav
+REF:  witch
+PRED: which
+--------------------
+File: M04_1_arrayMic_0049.wav
+REF:  right
+PRED: right
+--------------------
+File: M04_2_arrayMic_0152.wav
+REF:  steer
+PRED: cheers
+--------------------
+File: M04_2_arrayMic_0205.wav
+REF:  rock
+PRED: rock
+--------------------
+File: M04_2_arrayMic_0232.wav
+REF:  suit
+PRED: sweet
+--------------------
+File: M04_2_headMic_0229.wav
+REF:  play
+PRED: play
+--------------------
+File: M04_2_headMic_0233.wav
+REF:  bat
+PRED: bad
+--------------------
+File: M04_2_headMic_0289.wav
+REF:  pitting
+PRED: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+--------------------
+File: M05_1_arrayMic_0029.wav
+REF:  horn
+PRED: horn
+--------------------
+File: M05_1_arrayMic_0090.wav
+REF:  trait
+PRED: 
+--------------------
+File: M05_1_headMic_0127.wav
+REF:  knee
+PRED: me
+--------------------
+File: M05_2_headMic_0148.wav
+REF:  fill
+PRED: fizz
+--------------------
+File: M05_2_headMic_0388.wav
+REF:  ticker
+PRED: ticker
+--------------------
